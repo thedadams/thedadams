@@ -3,6 +3,10 @@
 ![Donnie's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thedadams&theme=onedark)
 <hr>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=thedadams)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr>
+
 ### Links
 
 - [Personal Website](https://thedadams.com)
