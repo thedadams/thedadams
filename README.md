@@ -1,11 +1,13 @@
 # Donnie Adams
-![Donnie's GitHub stats](https://github-readme-stats-eight-blush-20.vercel.app/api?username=thedadams&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=onedark)
-![Donnie's GitHub stats](https://github-readme-stats-eight-blush-20.vercel.app/api/wakatime?username=thedadams&theme=onedark&langs_count=15)
-![Donnie's GitHub stats](https://github-readme-stats-eight-blush-20.vercel.app/api/top-langs/?username=thedadams&theme=onedark)
-<hr>
-
-[![trophy](https://github-profile-trophy-hazel-eight.vercel.app/?username=thedadams&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=280 align="center" src="https://github-readme-stats-eight-blush-20.vercel.app/api?username=thedadams&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=280 align="center" src="https://github-readme-stats-eight-blush-20.vercel.app/api/top-langs/?username=thedadams&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=280 align="center" src="https://github-readme-stats-eight-blush-20.vercel.app/api/wakatime?username=thedadams&theme=onedark&langs_count=15" />
+</a>
 <hr>
 
 ### Links
