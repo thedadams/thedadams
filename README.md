@@ -3,7 +3,7 @@
 ![Donnie's GitHub stats](https://github-readme-stats-eight-blush-20.vercel.app/api/top-langs/?username=thedadams&theme=onedark)
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thedadams)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-hazel-eight.vercel.app/?username=thedadams&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
