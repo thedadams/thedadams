@@ -8,6 +8,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=280 align="center" src="https://github-readme-stats-eight-blush-20.vercel.app/api/wakatime?username=thedadams&theme=onedark&langs_count=15" />
 </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img height=280 align="center" src="https://github-profile-trophy-hazel-eight.vercel.app/?username=thedadams" />
+</a>
 <hr>
 
 ### Links
