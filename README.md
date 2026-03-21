@@ -16,5 +16,5 @@
 ### Links
 
 - [Personal Website](https://thedadams.com)
-- [Links](https://thedadams.com/links.html)
-- [Uses](https://thedadams.com/uses.html)
+- [Links](https://thedadams.com/hello)
+- [Uses](https://thedadams.com/uses)
